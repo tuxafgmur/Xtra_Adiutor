@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.grarak.kerneladiutor"
-        minSdkVersion 9
+        minSdkVersion 19
         targetSdkVersion 22
         versionCode 109
         versionName "0.9.7.1.1"
@@ -17,6 +17,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    lintOptions {
+        abortOnError false
+    }
+    buildDir = '../../Out/Adiutor'
 }
 
 dependencies {
