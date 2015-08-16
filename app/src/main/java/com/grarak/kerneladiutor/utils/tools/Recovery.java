@@ -30,7 +30,7 @@ import java.util.List;
 public class Recovery {
 
     public enum RECOVERY {
-        CWM, TWRP
+        TWRP, CWM
     }
 
     public enum RECOVERY_COMMAND {

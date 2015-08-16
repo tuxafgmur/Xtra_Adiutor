@@ -76,8 +76,8 @@
 
     <!-- Recovery -->
     <string-array name="recovery_variants">
-        <item>@string/cwm_recovery</item>
         <item>@string/twrp</item>
+        <item>@string/cwm_recovery</item>
     </string-array>
 
     <!-- Initd -->
