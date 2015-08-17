@@ -525,13 +525,9 @@
   <string name="flash_now">インストール</string>
   <string name="flash_now_confirm">本当に実行しますか? リカバリへ再起動し、アクションを実行します。</string>
   <string name="add_action_first">まずアクションを追加してください。</string>
-  <string name="emulate_initd">Init.dのエミュレート</string>
-  <string name="emulate_initd_summary">お使いの機器がInit.d をサポートしていない場合は、Init.dのエミュレートを有効にできます。Init.dのエミュレートを有効化すると、「起動時に適用」の前にスクリプトを実行するようになります。</string>
   <string name="executing">実行中</string>
   <string name="execute">実行</string>
   <string name="no_scripts_found">スクリプトはありません!</string>
-  <string name="starting_initd">Init.dエミュレーションの開始中</string>
-  <string name="finishing_initd">Init.dエミュレーションの終了中</string>
   <string name="file_name">ファイル名</string>
   <string name="dark_theme">ダークテーマ</string>
   <string name="force_english_language">英語表示にする</string>

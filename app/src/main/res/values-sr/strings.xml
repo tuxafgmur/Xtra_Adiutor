@@ -254,13 +254,9 @@
   <string name="flash_now">Флешуј сад</string>
   <string name="flash_now_confirm">Желите ли да покренете ваше радње? Ваш уређај ће бити поново покренут у опоравак а радње ће бити извршене редоследом којим сте их додали.</string>
   <string name="add_action_first">Најпре морате да додате радњу.</string>
-  <string name="emulate_initd">Емулирај init.d</string>
-  <string name="emulate_initd_summary">Ако ваш уређај не подржава init.d, можете укључити емулацију. Ово ће омогућити апликацији да покрене скрипте након покретања вашег уређаја али пре примене при подизању.</string>
   <string name="executing">Извршавам</string>
   <string name="execute">Изврши</string>
   <string name="no_scripts_found">Нема скрипти!</string>
-  <string name="starting_initd">Покрећем Init.d емулацију</string>
-  <string name="finishing_initd">Завршавам Init.d емулацију</string>
   <string name="file_name">Назив фајла</string>
   <string name="dark_theme">Тамна тема</string>
   <string name="force_english_language">Присили енглески језик</string>

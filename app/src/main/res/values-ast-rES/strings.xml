@@ -252,12 +252,8 @@
   <string name="flash_now">Flaxar agora</string>
   <string name="flash_now_confirm">¿Quies executar les tos aiciones? El to preséu reaniciaráse nel mou recovery y executaránse les aciones nel orde nes que les amestesti.</string>
   <string name="add_action_first">Tienes d\'amestar una aición primero.</string>
-  <string name="emulate_initd">Emular Init.d</string>
-  <string name="emulate_initd_summary">Si\'l to preséu nun sofita Init.d pues habilitar «Emular init.d». Habilitando la emuladicón d\'Init.d l\'aplicación executará los scripts dempués que\'l to preséu arranque, pero enantes d\'aplicar les camudancies.</string>
   <string name="executing">Executando</string>
   <string name="no_scripts_found">¡Nun s\'alcontraron scripts!</string>
-  <string name="starting_initd">Aniciando emulación Init.d</string>
-  <string name="finishing_initd">Finando emulación d\'Init.d</string>
   <string name="file_name">Nome del ficheru</string>
   <string name="dark_theme">Tema escuru</string>
   <string name="force_english_language">Forciar la llingua inglesa</string>

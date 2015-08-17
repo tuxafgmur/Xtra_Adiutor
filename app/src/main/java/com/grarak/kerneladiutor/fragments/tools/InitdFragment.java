@@ -99,13 +99,6 @@ public class InitdFragment extends RecyclerViewFragment {
         backgroundView.setVisibility(View.GONE);
         backgroundView = null;
 
-        applyOnBootText.setText(getString(R.string.emulate_initd));
-        applyOnBootView.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-            @Override
-            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                Utils.saveBoolean("emulateinit.d", isChecked, getActivity());
-            }
-        });
         applyOnBootView.setChecked(Utils.getBoolean("emulateinit.d", false, getActivity()));
     }
 
@@ -197,20 +190,8 @@ public class InitdFragment extends RecyclerViewFragment {
     private void refresh() {
         removeAllViews();
 
-        if (!Utils.getBoolean("hideinfocardinit.d", false, getActivity())) {
-            final InformationCardView.DInformationCard mInformationCard = new InformationCardView.DInformationCard();
-            mInformationCard.setText(getString(R.string.emulate_initd_summary));
-            mInformationCard.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    removeView(mInformationCard);
-                    Utils.saveBoolean("hideinfocardinit.d", true, getActivity());
-                }
-            });
-
-            addView(mInformationCard);
-        }
-
+        Utils.saveBoolean("hideinfocardinit.d", true, getActivity());
+        
         for (final String file : Initd.getInitds()) {
             if (file == null || file.isEmpty()) return;
             final CardViewItem.DCardView mInitdCard = new CardViewItem.DCardView();

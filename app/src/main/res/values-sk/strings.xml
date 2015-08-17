@@ -136,7 +136,6 @@
   <string name="reboot">Reštartovať</string>
   <string name="confirm">Ste si istý?</string>
   <string name="twrp">TWRP</string>
-  <string name="emulate_initd">Emulovať Init.d</string>
   <string name="dark_theme">Tmavá téma</string>
   <string name="force_english_language">Vynútiť anglický jazyk</string>
   <string name="beta_info">Informácie o verzii beta</string>

@@ -525,13 +525,9 @@
   <string name="flash_now">Flashear Ahora</string>
   <string name="flash_now_confirm">Quieres ejecutar estas acciones? Tu dispositivo se reiniciará en modo Recovery y las acciones se ejecutarán en el orden en el que las añadiste.</string>
   <string name="add_action_first">Primero tienes que añadir una acción.</string>
-  <string name="emulate_initd">Emular init.d</string>
-  <string name="emulate_initd_summary">Si tu dispositivo no soporta Init.d puedes habilitar Emular Init.d. Si habilitas la Emulación Init.d, la aplicación ejecutará los scripts después de que tu dispositivo encienda, pero después de iniciar (no durante).</string>
   <string name="executing">Ejecutando</string>
   <string name="execute">Ejecutar</string>
   <string name="no_scripts_found">No se encontraron Scripts!</string>
-  <string name="starting_initd">Iniciando emulación Init.d</string>
-  <string name="finishing_initd">Finalizando emulación Init.d</string>
   <string name="file_name">Nombre del archivo</string>
   <string name="dark_theme">Tema Oscuro</string>
   <string name="force_english_language">Forzar idioma inglés</string>

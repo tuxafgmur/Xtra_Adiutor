@@ -249,7 +249,6 @@
   <string name="reboot">Starta om</string>
   <string name="reboot_soft">Mjuk omstart</string>
   <string name="confirm">Är du säker?</string>
-  <string name="emulate_initd">Emulera Init.d</string>
   <string name="dark_theme">Mörkt tema</string>
   <string name="force_english_language">Tvinga användning av engelska</string>
   <string name="beta_info_summary">Visa en dialogruta vid start om du använder en betaversion.</string>

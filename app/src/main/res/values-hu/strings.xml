@@ -524,13 +524,9 @@
   <string name="flash_now">Falshelés most</string>
   <string name="flash_now_confirm">Szeretné most futtatni a műveleteit? A készülék újraindul recovery módban és a műveletek abban a sorrendben futnak le, ahogyan hozzáadta azokat.</string>
   <string name="add_action_first">Először hozzá kell adnia egy műveletet.</string>
-  <string name="emulate_initd">Init.d emulálása</string>
-  <string name="emulate_initd_summary">Ha a készülékének nincs Init.d támogatása, engedélyezheti az Init.d emulálását. Az Init.d emuláció lehetővé teszi az alkalmazás számára a szkript fájlok futtatását a készülék indítása után, de még a bootoláskor alkalmazás előtt.</string>
   <string name="executing">Végrehajtás</string>
   <string name="execute">Végrehajt</string>
   <string name="no_scripts_found">Nincsenek szkript fájlok!</string>
-  <string name="starting_initd">Init.d emulálás indítása</string>
-  <string name="finishing_initd">Init.d emulálás befejezése</string>
   <string name="file_name">Fájl neve</string>
   <string name="dark_theme">Sötét téma</string>
   <string name="force_english_language">Angol nyelv kényszerítése</string>

@@ -410,13 +410,9 @@
   <string name="flash_now">Flash Sekarang</string>
   <string name="flash_now_confirm">Apakah Anda ingin menjalankan tindakan Anda? Perangkat akan reboot ke recovery dan tindakan akan dijalankan sesuai dengan urutan yang anda tambahkan.</string>
   <string name="add_action_first">Anda harus menambahkan tindakan terlebih dulu.</string>
-  <string name="emulate_initd">Emulasikan Inti.d</string>
-  <string name="emulate_initd_summary">Jika perangkat tidak mendukung Init.d Anda dapat mengaktifkan Init.d Emulator. Dengan emulasi aplikasi Init.d akan menjalankan skrip setelah perangkat menyala, aktifkan penrapan pada saat boot.</string>
   <string name="executing">Menjalankan</string>
   <string name="execute">Jalankan</string>
   <string name="no_scripts_found">Tidak menemukan script!</string>
-  <string name="starting_initd">Memulai Emulasi Inti.d</string>
-  <string name="finishing_initd">Mengakhiri Emulasi Init.d</string>
   <string name="file_name">Nama file</string>
   <string name="dark_theme">Tema gelap</string>
   <string name="force_english_language">Paksa Bahasa Inggris</string>

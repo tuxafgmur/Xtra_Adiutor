@@ -405,13 +405,9 @@
   <string name="flash_now">Namestite zdaj</string>
   <string name="flash_now_confirm">Ali želite zagnati izbrana dejanja? Naprava se bo zagnala v Recovery in dejanja se bodo izvedla v vrstnem redu, kot ste jih dodali.</string>
   <string name="add_action_first">Najprej morate dodati dejanje.</string>
-  <string name="emulate_initd">Posnemaj Init.d</string>
-  <string name="emulate_initd_summary">Če vaša naprava ne podpira Init.d lahko omogočite Posnemaj Init.d. Z omogočano funkcijo bo aplikacija izvedla skripte po zagonu naprave, vendar pred uporabo ob zagonu.</string>
   <string name="executing">Izvajanje</string>
   <string name="execute">Izvedi</string>
   <string name="no_scripts_found">Ni najdenih skript!</string>
-  <string name="starting_initd">Začenjam Init.d posnemanje</string>
-  <string name="finishing_initd">Končujem Init.d posnemanje</string>
   <string name="dark_theme">Temna preobleka</string>
   <string name="force_english_language">Vsili angleški jezik</string>
   <string name="beta_info">Informacije o preizkusni različici</string>

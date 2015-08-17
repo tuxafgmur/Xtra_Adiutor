@@ -406,13 +406,9 @@
   <string name="flash_now">立刻刷入</string>
   <string name="flash_now_confirm">你要执行你的操作吗? 你的设备将重启进入 recovery 并按照您添加时的顺序执行操作</string>
   <string name="add_action_first">你必须先添加一个操作。</string>
-  <string name="emulate_initd">模拟 Init.d</string>
-  <string name="emulate_initd_summary">如果你的设备不支持 Init.d ,你可以启用模拟 Init.d。通过启用 Init.d 模拟功能后应用将会在你的设备启动时运行脚本, 但先于在此应用内设置的被应用于启动时的配置。</string>
   <string name="executing">正在执行</string>
   <string name="execute">执行</string>
   <string name="no_scripts_found">没有找到脚本!</string>
-  <string name="starting_initd">正在开始 Init.d 模拟</string>
-  <string name="finishing_initd">正在完成 Init.d 模拟</string>
   <string name="file_name">文件名</string>
   <string name="dark_theme">暗色主题</string>
   <string name="force_english_language">强制使用英语</string>

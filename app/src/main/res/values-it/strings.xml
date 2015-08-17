@@ -524,13 +524,9 @@
   <string name="flash_now">Flasha ora</string>
   <string name="flash_now_confirm">Si desidera eseguire le azioni? Il dispositivo si riavvierà in recovery e le azioni verranno eseguite nell\'ordine come aggiunti.</string>
   <string name="add_action_first">Si deve aggiungere prima un\'azione.</string>
-  <string name="emulate_initd">Emula Init.d</string>
-  <string name="emulate_initd_summary">Se il dispositivo non supporta init.d è possibile abilitare Emulazione init.d. Abilitando l\'emulazione init.d l\'applicazione eseguirà gli script dopo l\'avvio del dispositivo, ma prima di applicare al boot.</string>
   <string name="executing">Esecuzione</string>
   <string name="execute">Esegui</string>
   <string name="no_scripts_found">Nessuno scripts trovato!</string>
-  <string name="starting_initd">Avvio dell\'emulazione init.d</string>
-  <string name="finishing_initd">Termine dell\'emulazione init.d</string>
   <string name="file_name">Nome del file</string>
   <string name="dark_theme">Tema scuro</string>
   <string name="force_english_language">Forza lingua Inglese</string>

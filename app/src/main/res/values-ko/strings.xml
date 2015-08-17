@@ -480,13 +480,9 @@
   <string name="flash_now">지금 플래싱</string>
   <string name="flash_now_confirm">동작을 실행하시겠습니까? 기기가 리커버리로 다시 시작된 후 추가한 동작들이 순서대로 실행됩니다.</string>
   <string name="add_action_first">동작을 먼저 추가해야 합니다.</string>
-  <string name="emulate_initd">Init.d 에뮬레이션</string>
-  <string name="emulate_initd_summary">기기가 Init.d를 지원하지 않는 경우 Init.d 에뮬레이션을 사용하세요. 부팅이 끝난 후 앱이 스크립트를 실행합니다.</string>
   <string name="executing">실행 중</string>
   <string name="execute">실행</string>
   <string name="no_scripts_found">스크립트가 없습니다!</string>
-  <string name="starting_initd">Init.d 에뮬레이션 시작</string>
-  <string name="finishing_initd">Init.d 에뮬레이션 종료</string>
   <string name="file_name">파일명</string>
   <string name="dark_theme">어두운 테마</string>
   <string name="force_english_language">강제로 영어 사용</string>

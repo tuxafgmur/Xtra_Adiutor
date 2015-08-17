@@ -459,13 +459,9 @@
   <string name="wipe_data">Limpar dados</string>
   <string name="wipe_cache">Limpar cache</string>
   <string name="add_action_first">Você tem que adicionar uma ação primeiro.</string>
-  <string name="emulate_initd">Emular init. d</string>
-  <string name="emulate_initd_summary">Se o seu dispositivo não suporta Init. d, você pode emular o Init. d. Ao permitir a emulação do Init. d o aplicativo irá executar os scripts depois que o dispositivo é inicializado, mas antes de aplicar na inicialização.</string>
   <string name="executing">Em execução</string>
   <string name="execute">Executar</string>
   <string name="no_scripts_found">Nenhum script encontrado!</string>
-  <string name="starting_initd">Iniciando a emulação do Init.d</string>
-  <string name="finishing_initd">Concluindo a emulação do Init.d</string>
   <string name="dark_theme">Tema escuro</string>
   <string name="force_english_language">Forçar em língua inglesa</string>
   <string name="beta_info">Informações beta</string>

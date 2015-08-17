@@ -597,13 +597,9 @@
     <string name="add_action_first">You have to add an action first.</string>
 
     <!-- Init.d -->
-    <string name="emulate_initd">Emulate Init.d</string>
-    <string name="emulate_initd_summary">If your device does not support Init.d you can enable Emulate Init.d. By enabling the Init.d Emulation the application will run the scripts after your device boots up, but before apply on boot.</string>
     <string name="executing">Executing</string>
     <string name="execute">Execute</string>
     <string name="no_scripts_found">No scripts found!</string>
-    <string name="starting_initd">Starting Init.d emulation</string>
-    <string name="finishing_initd">Finishing Init.d emulation</string>
     <string name="file_name">Name of file</string>
 
     <!-- Settings -->

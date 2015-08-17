@@ -429,13 +429,9 @@ Mudar de governador vai ter impacto no CPU na forma como ele  utiliza as frequê
   <string name="flash_now">Flash agora</string>
   <string name="flash_now_confirm">Você quer executar suas ações? Seu dispositivo irá reiniciar para a recuperação e as ações serão executadas na ordem em que elas foram adicionadas.</string>
   <string name="add_action_first">Você tem que adicionar uma ação primeiro.</string>
-  <string name="emulate_initd">Emular init. d</string>
-  <string name="emulate_initd_summary">Se o seu dispositivo não suporta init. d, pode emular init. d. Ao permitir a emulação de init. d a aplicação irá executar os scripts depois que o dispositivo é inicializado, mas antes de aplicar na inicialização.</string>
   <string name="executing">Em execução</string>
   <string name="execute">Executar</string>
   <string name="no_scripts_found">Sem scripts encontrados!</string>
-  <string name="starting_initd">Começar emulação Init.d</string>
-  <string name="finishing_initd">Acabar com a emulação init.d</string>
   <string name="dark_theme">Tema escuro</string>
   <string name="force_english_language">Força de língua inglesa</string>
   <string name="beta_info">Informações beta</string>

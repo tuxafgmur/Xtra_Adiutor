@@ -478,13 +478,9 @@
   <string name="flash_now">Flasher maintenant</string>
   <string name="flash_now_confirm">Voulez-vous lancer vos actions ? Votre appareil va redémarrer en mode recovery et les actions vont être lancées dans l\'ordre où vous les avez ajoutées.</string>
   <string name="add_action_first">Vous devez d\'abord ajouter une action.</string>
-  <string name="emulate_initd">Émulation init.d</string>
-  <string name="emulate_initd_summary">Si votre appareil ne support pas init.d, vous pouvez activer son émulation. En activant l\'émulation init.d l\'application va exécuter les scripts après le démarrage de votre appareil, mais avant d\'appliquer les paramètres au démarrage.</string>
   <string name="executing">En cours d\'exécution</string>
   <string name="execute">Executer</string>
   <string name="no_scripts_found">Aucun script trouvé !</string>
-  <string name="starting_initd">Démarrage de l’émulation init.d</string>
-  <string name="finishing_initd">Arrêt de l’émulation init.d</string>
   <string name="file_name">Nom du fichier</string>
   <string name="dark_theme">Thème sombre</string>
   <string name="force_english_language">Forcer la Langue Anglaise</string>

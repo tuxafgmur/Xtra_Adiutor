@@ -504,13 +504,9 @@
   <string name="flash_now">Применить сейчас</string>
   <string name="flash_now_confirm">Вы уверены? Ваше устройство перезагрузится в Recovery и действия будут выполнены в порядке добавления.</string>
   <string name="add_action_first">Сначала добавьте действие.</string>
-  <string name="emulate_initd">Эмулировать Init.d</string>
-  <string name="emulate_initd_summary">Если ваше устройство не поддерживает Init.d можно включить поддержку Init.d. Скрипты будут запущены после загрузки устройства, но перед применением настроек Kernel Adiutor.</string>
   <string name="executing">Выполнение</string>
   <string name="execute">Выполнить</string>
   <string name="no_scripts_found">Скрипты не найдены!</string>
-  <string name="starting_initd">Запуск эмуляции Init.d</string>
-  <string name="finishing_initd">Окончание эмуляции init.d</string>
   <string name="file_name">Имя файла</string>
   <string name="dark_theme">Тёмная тема</string>
   <string name="force_english_language">Принудительно использовать английский язык</string>

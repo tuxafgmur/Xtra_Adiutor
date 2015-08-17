@@ -449,13 +449,9 @@
   <string name="flash_now">Jetzt flashen</string>
   <string name="flash_now_confirm">Möchten Sie Ihre Aktionen ausführen? Das Gerät wird ins Recovery-System starten und die Aktionen werden in der Reihenfolge ausgeführt, wie sie hinzugefügt wurden.</string>
   <string name="add_action_first">Sie müssen zunächst eine Aktion hinzufügen.</string>
-  <string name="emulate_initd">Init.d emulieren</string>
-  <string name="emulate_initd_summary">Wenn Ihr Gerät kein Init.d unterstützt können Sie hier die Emulierung aktivieren. Durch die Aktivierung wird die Anwendung nach dem Systemstart die Skripte ausführen, dies geschieht jedoch vor \"Beim Systemstart anwenden\".</string>
   <string name="executing">Ausführung</string>
   <string name="execute">Ausführen</string>
   <string name="no_scripts_found">Keine Skripte gefunden!</string>
-  <string name="starting_initd">Starte Init.d-Emulation</string>
-  <string name="finishing_initd">Init.d-Emulation wird beendet</string>
   <string name="file_name">Name der Datei</string>
   <string name="dark_theme">Dunkles Design</string>
   <string name="force_english_language">Englische Sprache erzwingen</string>

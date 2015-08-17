@@ -282,13 +282,9 @@
   <string name="flash_now">Flashnout nyní</string>
   <string name="flash_now_confirm">Chcete provést naplánované akce? Zařízení bude restartováno do recovery menu a akce budou spuštěny v pořadí podle přidání.</string>
   <string name="add_action_first">Nejprve musíte přidat nějakou akci.</string>
-  <string name="emulate_initd">Emulace Init.d</string>
-  <string name="emulate_initd_summary">Pokud vaše zařízení nemá podporu Init.d, můžete povolit emulaci Init.d. Aplikace pak spustí skripty po spuštění vašeho zařízení, ale ještě předtím, než budou spuštěny služby „použít při spuštění“.</string>
   <string name="executing">Provádění</string>
   <string name="execute">Spustit</string>
   <string name="no_scripts_found">Nenalezeny žádné skripty</string>
-  <string name="starting_initd">Spouštění emulace Init.d</string>
-  <string name="finishing_initd">Dokončování emulace Init.d</string>
   <string name="file_name">Název souboru</string>
   <string name="dark_theme">Tmavý motiv</string>
   <string name="force_english_language">Vynutit použití angličtiny</string>
