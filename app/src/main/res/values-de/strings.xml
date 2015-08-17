@@ -16,10 +16,6 @@
   <string name="password_wrong">Falsches Passwort</string>
   <string name="press_back_again">Drücke \"Zurück\" noch einmal, um die App zu verlassen</string>
   <string name="more">Mehr</string>
-  <string name="thank_you">Vielen Dank!</string>
-  <string name="heavy_user_message">Es scheint Sie genießen diese Anwendung sehr! Vielen Dank für die Verwendung!</string>
-  <string name="rate_app">Bewerten Sie die App</string>
-  <string name="donate">Spenden Sie an mich</string>
   <string name="select_file">Wähle %s?</string>
   <string name="no_files">Keine Dateien in diesem Pfad.</string>
   <string name="save">Speichern</string>
