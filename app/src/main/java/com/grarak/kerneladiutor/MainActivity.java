@@ -46,7 +46,6 @@ import android.widget.LinearLayout;
 
 import com.grarak.kerneladiutor.elements.DAdapter;
 import com.grarak.kerneladiutor.elements.ScrimInsetsFrameLayout;
-import com.grarak.kerneladiutor.elements.SplashView;
 import com.grarak.kerneladiutor.fragments.BaseFragment;
 import com.grarak.kerneladiutor.fragments.information.FrequencyTableFragment;
 import com.grarak.kerneladiutor.fragments.information.KernelInformationFragment;
@@ -119,7 +118,6 @@ public class MainActivity extends BaseActivity implements Constants {
     private DrawerLayout mDrawerLayout;
     private ScrimInsetsFrameLayout mScrimInsetsFrameLayout;
     private RecyclerView mDrawerList;
-    private SplashView mSplashView;
 
     private DAdapter.Adapter mAdapter;
 
@@ -306,7 +304,6 @@ public class MainActivity extends BaseActivity implements Constants {
             mDrawerLayout.setDrawerShadow(R.drawable.drawer_shadow, GravityCompat.START);
         }
         mDrawerList = (RecyclerView) findViewById(R.id.drawer_list);
-        mSplashView = (SplashView) findViewById(R.id.splash_view);
 
         LinearLayoutManager mLayoutManager = new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false);
         mLayoutManager.setSmoothScrollbarEnabled(true);
@@ -430,7 +427,6 @@ public class MainActivity extends BaseActivity implements Constants {
                 return;
             }
 
-            mSplashView.finish();
             setInterface();
 
             try {
