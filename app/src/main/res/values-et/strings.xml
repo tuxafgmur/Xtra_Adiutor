@@ -137,8 +137,4 @@
   <string name="last_kmsg">Viimane Tuuma sõnum</string>
   <string name="show_sections">Kuva sektsioonid</string>
   <string name="license">Litsents</string>
-  <string name="open_source">Avatud lähtekoodiga</string>
-  <string name="google_plus_summary">Liituge meie kommuuniga.</string>
-  <string name="translation">Tõlge</string>
-  <string name="translation_summary">Aidake tõlkida see äppi!</string>
 </resources>

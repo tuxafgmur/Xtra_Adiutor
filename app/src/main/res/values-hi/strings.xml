@@ -103,9 +103,4 @@
   <string name="suspend">सस्पेंड</string>
   <string name="temp_limit">तापमान सीमा</string>
   <string name="temp_limit_summary">यदि तापमान से ऊपर चला जाता है, थर्मल के तापमान को कम करने के लिए CPU आवृत्ति गला घोंटना होगा।</string>
-  <string name="feature_request">सुविधा अनुरोध</string>
-  <string name="feature_request_summary">क्या आप और अधिक सुविधाएँ चाहते हैं? गिठब पर एक नए मुद्दे को खोले और मुझे अपने विचार बताएं।</string>
-  <string name="google_plus_summary">हमारे समुदाय में शामिल हों।</string>
-  <string name="translation">अनुवाद</string>
-  <string name="translation_summary">इस ऐप का अनुवाद करने के लिए मेरी मदद करे!</string>
 </resources>

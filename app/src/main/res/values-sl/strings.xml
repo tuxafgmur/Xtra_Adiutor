@@ -426,11 +426,4 @@
   <string name="driver_message_summary">Kopiraj sporočilo gonilnika (dmesg) v /sdcard/dmesg.txt</string>
   <string name="license">Licenca</string>
   <string name="app_license">Kernel Adiutor je licenciran pod Apache licenco, različica 2.0, in uporablja naslednje knjižnice</string>
-  <string name="open_source">Odprta koda</string>
-  <string name="open_source_summary">Aplikacija je odprtokodna. Preverite na moji Github strani.</string>
-  <string name="feature_request">Zaželjene funkcije</string>
-  <string name="feature_request_summary">Želite več funkcij? Odprite nov issue na Github in mi povejte vaše ideje.</string>
-  <string name="google_plus_summary">Pridružite se naši skupnosti.</string>
-  <string name="translation">Prevod</string>
-  <string name="translation_summary">Pomagajte mi prevesti to aplikacijo!</string>
 </resources>

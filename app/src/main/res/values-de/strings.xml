@@ -486,11 +486,4 @@
   <string name="show_sections">Abschnitte anzeigen</string>
   <string name="license">Lizenz</string>
   <string name="app_license">Kernel Adiutor ist unter der Apache License, Version 2.0, lizenziert und verwendet folgende Programmbibliotheken</string>
-  <string name="open_source">Open Source</string>
-  <string name="open_source_summary">Der Quellcode dieser App ist offen und kann auf meinem GitHub Account gefunden werden.</string>
-  <string name="feature_request">Funktionsanfrage</string>
-  <string name="feature_request_summary">Willst du mehr Funktionen? Öffne einen \"Issue\" auf GitHub und erzähl mir von deiner Idee.</string>
-  <string name="google_plus_summary">Werde Teil unserer Community.</string>
-  <string name="translation">Übersetzung</string>
-  <string name="translation_summary">Hilf mir, diese App zu übersetzen!</string>
 </resources>

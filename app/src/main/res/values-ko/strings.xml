@@ -515,11 +515,4 @@
   <string name="set_password_first">먼저 비밀번호를 설정해 주세요</string>
   <string name="license">라이선스</string>
   <string name="app_license">Kernel Adiutor는 아파치 라이선스 2.0 버전을 따르며 다음의 라이브러리들을 사용합니다.</string>
-  <string name="open_source">오픈소스</string>
-  <string name="open_source_summary">이 앱은 오픈소스입니다. 제 Github에서 확인해 보세요.</string>
-  <string name="feature_request">기능 요청</string>
-  <string name="feature_request_summary">더 많은 기능을 원하십니까? Github의 Issues 탭을 열어서 여러분의 아이디어를 말씀해 주세요.</string>
-  <string name="google_plus_summary">저희 커뮤니티에 가입하세요.</string>
-  <string name="translation">번역</string>
-  <string name="translation_summary">앱을 번역해 주세요!</string>
 </resources>

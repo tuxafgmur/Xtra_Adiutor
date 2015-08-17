@@ -561,11 +561,4 @@
   <string name="show_sections">Visualizza le sezioni</string>
   <string name="license">Licenza</string>
   <string name="app_license">Kernel Adiutor è rilasciato sotto licenza Apache, versione 2.0 e utilizza le seguenti librerie</string>
-  <string name="open_source">Open source</string>
-  <string name="open_source_summary">Questa applicazione è open source. Dai un\'occhiata sul mio Github.</string>
-  <string name="feature_request">Richiesta di una funzione</string>
-  <string name="feature_request_summary">Vuoi più caratteristiche? Apri una nuova segnalazione su Github e dimmi la tua idea.</string>
-  <string name="google_plus_summary">Unisciti alla nostra community.</string>
-  <string name="translation">Traduzione</string>
-  <string name="translation_summary">Aiutami a tradurre questa app!</string>
 </resources>

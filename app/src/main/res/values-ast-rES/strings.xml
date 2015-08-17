@@ -275,11 +275,4 @@
   <string name="show_sections">Amosar estayes</string>
   <string name="license">Llicencia</string>
   <string name="app_license">Kernel Adiutor llicénciase so l\'Apache License, Version 2.0 y usa les biblioteques de darréu</string>
-  <string name="open_source">Códigu abiertu</string>
-  <string name="open_source_summary">Esta aplicación ye códigu abiertu. Compruébalo nel mio Github.</string>
-  <string name="feature_request">Solicitú de carauterístiques</string>
-  <string name="feature_request_summary">¿Quies más carauterístiques? Abri un informe en Github y cúntame la to idea.</string>
-  <string name="google_plus_summary">Xúnite a la nuesa comunidá.</string>
-  <string name="translation">Traducciones</string>
-  <string name="translation_summary">¡Aídame a tornar esta aplicación!</string>
 </resources>

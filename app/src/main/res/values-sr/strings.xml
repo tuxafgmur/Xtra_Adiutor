@@ -291,11 +291,4 @@
   <string name="show_sections">Прикажи одељке</string>
   <string name="license">Лиценца</string>
   <string name="app_license">Кернел Адиутор је лиценциран Апачи лиценцом, издање 2.0, и користи следеће библиотеке</string>
-  <string name="open_source">Отворени кôд</string>
-  <string name="open_source_summary">Апликација је отвореног кôда. Прегледајте га на мом Гитхабу.</string>
-  <string name="feature_request">Захтеви за функције</string>
-  <string name="feature_request_summary">Желите још функција? Направите пријаву на Гитхабу и опишите ми вашу идеју.</string>
-  <string name="google_plus_summary">Придружите се нашој заједници.</string>
-  <string name="translation">Превођење</string>
-  <string name="translation_summary">Помозите ми превођењем апликације!</string>
 </resources>

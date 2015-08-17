@@ -561,11 +561,4 @@
   <string name="show_sections">Szakaszok megjelenítése</string>
   <string name="license">Licenc</string>
   <string name="app_license">Kernel Adiutor az Apache liszensz, 2.0 verziója szerint liszenszelt, és a következő könyvtárakat használja</string>
-  <string name="open_source">Nyílt forráskódú</string>
-  <string name="open_source_summary">Ez az alkalmazás nyílt forráskódú. Nézze meg a GitHub fiókomat.</string>
-  <string name="feature_request">Ötlet, javaslat</string>
-  <string name="feature_request_summary">Több szolgáltatásra vágyik? Nyisson meg egy új problémát a Githubon, és mondja el ötletét.</string>
-  <string name="google_plus_summary">Csatlakozz közösségünkhöz.</string>
-  <string name="translation">Fordítás</string>
-  <string name="translation_summary">Segítsen nekem lefordítani ezt az alkalmazást!</string>
 </resources>

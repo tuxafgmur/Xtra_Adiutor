@@ -653,12 +653,5 @@
     <string name="square" translatable="false">Square Inc.</string>
     <string name="materialtabs" translatable="false">MaterialTabs</string>
     <string name="frenn" translatable="false">Karim Frenn</string>
-    <string name="open_source">Open source</string>
-    <string name="open_source_summary">This application is open source. Check it out on my Github.</string>
-    <string name="feature_request">Feature request</string>
-    <string name="feature_request_summary">Do you want more features? Open a new issue on Github and tell me your idea.</string>
-    <string name="google_plus_summary">Join our community.</string>
-    <string name="translation">Translation</string>
-    <string name="translation_summary">Help me to translate this app!</string>
 
 </resources>
