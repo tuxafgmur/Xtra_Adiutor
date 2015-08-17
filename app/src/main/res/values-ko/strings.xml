@@ -58,7 +58,6 @@
   <string name="profile">프로필</string>
   <string name="initd">Init.d</string>
   <string name="settings">설정</string>
-  <string name="faq">FAQ</string>
   <string name="about_us">제작자 소개</string>
   <string name="unused_cpu_states">사용되지 않은 CPU 클럭</string>
   <string name="uptime">가동 시간</string>
@@ -514,16 +513,6 @@
   <string name="password_not_match">비밀번호가 서로 다릅니다</string>
   <string name="password_too_long">비밀번호가 너무 깁니다</string>
   <string name="set_password_first">먼저 비밀번호를 설정해 주세요</string>
-  <string name="misspelled">왜 \"Auditor\"가 아닌가요? 오타인가요?</string>
-  <string name="misspelled_summary">Adiutor는 라틴어로 도우미를 뜻합니다.</string>
-  <string name="cpu_freq_not_sticking">설정한 CPU 클럭으로 변경되지 않는데 왜 그런가요?</string>
-  <string name="cpu_freq_not_sticking_summary">많은 이유가 있습니다. 요즘 대부분의 커널은 클럭을 조절하는 독자적인 핫플러깅 시스템을 가지고 있으며, CyanogenMod는 클럭을 조절하는 독자적인 CPU 부스트 기능을 사용하고 있습니다. 이 경우에는 CPU 클럭을 건드리지 마시고, 커널에 맡기는 것을 추천합니다.</string>
-  <string name="feature_not_appearing">왜 X와 Y라는 기능이 보이지 않나요?</string>
-  <string name="feature_not_appearing_summary">기능은 커널에 따라 차이가 있습니다.</string>
-  <string name="feature_function">X라는 기능이 무엇인가요?</string>
-  <string name="feature_function_summary">이 기능이 무엇을 하는지 모른다면 그냥 건드리지 마세요. 고가의 기기를 가지고 놀기 전에 제대로 된 연구를 하시기 바랍니다.</string>
-  <string name="add_new_features">X와 Y라는 기능을 추가해 주실 수 있으신가요?</string>
-  <string name="add_new_features_summary">그건 말씀드리기 어렵습니다. 저는 모든 기능을 추가하고 싶지만 이 앱에서 모든 기기를 지원하기엔 어려움이 있습니다. 저는 삼성 갤럭시 S4 (I9500)와 HTC 디자이어 816만 가지고 있기 때문에 기능이 바로 추가되지 않더라도 저를 탓하지 마세요.</string>
   <string name="license">라이선스</string>
   <string name="app_license">Kernel Adiutor는 아파치 라이선스 2.0 버전을 따르며 다음의 라이브러리들을 사용합니다.</string>
   <string name="open_source">오픈소스</string>

@@ -51,7 +51,6 @@
   <string name="profile">Profil</string>
   <string name="initd">Init.d</string>
   <string name="settings">Postavke</string>
-  <string name="faq">Najčešća pitanja i odgovori</string>
   <string name="about_us">O autoru</string>
   <string name="unused_cpu_states">Statistika nekorištenog dijela CPU-a</string>
   <string name="uptime">Vrijeme u pogonu</string>
@@ -334,16 +333,6 @@
   <string name="last_kmsg_summary">Kopirajte /proc/last_kmsg u /sdcard/last_kmsg.txt</string>
   <string name="driver_message">Izvješće o Driveru</string>
   <string name="driver_message_summary">Kopirajte izvješće o driveru (dmesg) u /sdcard/dmesg.txt</string>
-  <string name="misspelled">Zašto ste pogriješili utipkujući \"Auditor\"?</string>
-  <string name="misspelled_summary">Adiutor je latinski a znači pomagač.</string>
-  <string name="cpu_freq_not_sticking">Zašto moja odabrana CPU frekvencija ne radi?</string>
-  <string name="cpu_freq_not_sticking_summary">To može imati puno razloga. Mnogi kerneli danas imaju vlastiti hotplugging sustav koji kontrolira CPU frekvencije, a CyanogenMod ima svoju provedbu poticanja CPU-a koja regulira frekvenciju. Predložio bih Vam ne dirati CPU frekvencije i pustiti neka kernel radi svoj posao.</string>
-  <string name="feature_not_appearing">Zašto se značajke x i y ne mogu nigdje pronaći?</string>
-  <string name="feature_not_appearing_summary">Značajke ovise o kernelu.</string>
-  <string name="feature_function">Što značajka x čini?</string>
-  <string name="feature_function_summary">Ako ne znate što neka postavka izvršava, onda je jednostavno ne dirajte. Molimo Vas dovoljno se unaprijed raspitajte prije igranja s Vašim dragocjenim hardverom.</string>
-  <string name="add_new_features">Možete li dodati značajku x i y?</string>
-  <string name="add_new_features_summary">To je teško reći. Pokušavam dodati što više mogućnosti, ali tako je teško napraviti ovu aplikaciju univerzalnom za sve uređaje. Imam Samsung Galaxy S4 (I9500) i HTC Desire 816, pa nemojte me kriviti ako neke značajke ne budu dodane odmah.</string>
   <string name="license">Dozvola</string>
   <string name="app_license">Kernel Adiutor je odobren Apache Licencom, verzija 2.0, i koristi slijedeće banke podataka</string>
   <string name="open_source">Open source</string>

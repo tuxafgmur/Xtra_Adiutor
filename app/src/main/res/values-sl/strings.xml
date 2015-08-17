@@ -48,7 +48,6 @@
   <string name="profile">Profil</string>
   <string name="initd">Init.d</string>
   <string name="settings">Nastavitve</string>
-  <string name="faq">Pogosta vprašanja</string>
   <string name="about_us">O nas</string>
   <string name="unused_cpu_states">Neuporabljena stanja CPE</string>
   <string name="uptime">Čas delovanja</string>
@@ -425,16 +424,6 @@
   <string name="last_kmsg_summary">Kopiraj /proc/last_kmsg v /sdcard/last_kmsg.txt</string>
   <string name="driver_message">Sporočilo gonilnika</string>
   <string name="driver_message_summary">Kopiraj sporočilo gonilnika (dmesg) v /sdcard/dmesg.txt</string>
-  <string name="misspelled">Zakaj ste napačno napisali \"Auditor\"?</string>
-  <string name="misspelled_summary">Adiutor v latinščini pomeni pomočnik.</string>
-  <string name="cpu_freq_not_sticking">Zakaj se moja določena frekvenca CPE ne obdrži?</string>
-  <string name="cpu_freq_not_sticking_summary">Za to je veliko razlogov. Veliko Kernelov ima dandanes svoj hotplugging sistem, ki nadzira frekvenco CPE, CyanogenMod pa ima svoj način izvajanja pospešitve CPE, s čimer uravnava frekvenco. Jaz bi vam predlagal, da ne spreminjate CPE frekvence in pustite Kernelu naj opravi svoje delo.</string>
-  <string name="feature_not_appearing">Zakaj se funkcije x in y ne pokažejo?</string>
-  <string name="feature_not_appearing_summary">Funkcije so odvisne od Kernela.</string>
-  <string name="feature_function">Kaj stori funkcija x?</string>
-  <string name="feature_function_summary">Če ne poznate funkcije te nastavitve, jo preprosto pustite pri miru. Prosim, da jo natančno raziščite pred igranjem z vašo drago strojno opremo.</string>
-  <string name="add_new_features">Ali lahko dodate funkciji x in y?</string>
-  <string name="add_new_features_summary">To je težko reči. Trudim se dodati vse funkcije, vendar je to aplikacijo težko narediti univerzalno za vse naprave. Imam le Samsung Galaxy S4 (I9500) in HTC Desire 816, zato mi prosim oprostite, če funkcije ne bodo takoj združene.</string>
   <string name="license">Licenca</string>
   <string name="app_license">Kernel Adiutor je licenciran pod Apache licenco, različica 2.0, in uporablja naslednje knjižnice</string>
   <string name="open_source">Odprta koda</string>

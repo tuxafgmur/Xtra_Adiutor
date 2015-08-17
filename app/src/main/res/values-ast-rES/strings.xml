@@ -52,7 +52,6 @@
   <string name="profile">Perfil</string>
   <string name="initd">Init.d</string>
   <string name="settings">Axustes</string>
-  <string name="faq">FAQ</string>
   <string name="about_us">Tocante a nós</string>
   <string name="unused_cpu_states">Estaos de CPU ensin usu</string>
   <string name="uptime">Tiempu prendíu</string>
@@ -274,14 +273,6 @@
   <string name="password_empty">La contraseña ta balera</string>
   <string name="password_too_long">La contraseña ye perllarga</string>
   <string name="show_sections">Amosar estayes</string>
-  <string name="misspelled">¿Por qué escribiesti mal \"Auditor\"?</string>
-  <string name="misspelled_summary">Adiutor ye llatín y significa \"ayudante\".</string>
-  <string name="feature_not_appearing">¿Por qué nun s\'amuesen les carauterístiques X ya Y?</string>
-  <string name="feature_not_appearing_summary">Les carauterístiques tán arreyaes al kernel.</string>
-  <string name="feature_function">¿Qué fai la carauterística X?</string>
-  <string name="feature_function_summary">Si nun sabes lo que fai esi control, cenciellamente nun lu toques. Por favor, fai una gueta afayadiza enantes de xugar col to hardware caru.</string>
-  <string name="add_new_features">¿Podríes amestar les carauterístiques X ya Y?</string>
-  <string name="add_new_features_summary">Ye difícil de dicir. Intentaré amestar toles carauterístiques pa facer esta aplicación universal pa con tolos preseos. Namái teo un Samsung Galaxy S4 (I9500) y un HTC Desire 816, asina que nun me culpéis si nun les amiesto nel intre.</string>
   <string name="license">Llicencia</string>
   <string name="app_license">Kernel Adiutor llicénciase so l\'Apache License, Version 2.0 y usa les biblioteques de darréu</string>
   <string name="open_source">Códigu abiertu</string>

@@ -59,7 +59,6 @@
   <string name="profile">Perfil	</string>
   <string name="initd">Init.d</string>
   <string name="settings">Configurações</string>
-  <string name="faq">FAQ</string>
   <string name="about_us">Sobre nós</string>
   <string name="unused_cpu_states">Estados de CPU não utilizados</string>
   <string name="uptime">Tempo de atividade</string>
@@ -492,16 +491,6 @@
   <string name="password_not_match">A senha não coincide com a confirmação</string>
   <string name="password_too_long">A senha é muito longa</string>
   <string name="set_password_first">Defina uma senha primeiro</string>
-  <string name="misspelled">Por que você confundiu \"Auditor\"?</string>
-  <string name="misspelled_summary">Adiutor é latim e significa auxiliar.</string>
-  <string name="cpu_freq_not_sticking">Por que minha frequência determinada da CPU não é cumprida?</string>
-  <string name="cpu_freq_not_sticking_summary">Isto tem muitas razões. Muitos kernels, hoje em dia, têm seu próprio sistema de hotplugging que controla a frequência da CPU e CyanogenMod tem sua própria implementação de impulso de CPU que regulam a frequência. Gostaria de sugerir-lhe para não tocar as frequências de CPU e deixar o kernel a fazer o seu trabalho.</string>
-  <string name="feature_not_appearing">Por que características x e y não aparecem?</string>
-  <string name="feature_not_appearing_summary">Características dependem do kernel.</string>
-  <string name="feature_function">O que a característica x faz?</string>
-  <string name="feature_function_summary">Se você não sabe o que faz esse controle, então simplesmente não toque. Por favor, faça uma pesquisa adequada antes de brincar com seu hardware caro.</string>
-  <string name="add_new_features">Você poderia adicionar o recurso x e y?</string>
-  <string name="add_new_features_summary">É difícil dizer. Eu tento adicionar todos os recursos, mas é difícil fazer este app universal para todos os dispositivos. Eu só tenho um Samsung Galaxy S4 (I9500) e um HTC Desire 816, então não me culpe se recursos não aparecerem imediatamente.</string>
   <string name="license">Licença</string>
   <string name="app_license">Kernel Adiutor é licenciado sob a licença Apache, Versão 2.0, e suas respectivas bibliotecas</string>
   <string name="open_source">Código aberto</string>

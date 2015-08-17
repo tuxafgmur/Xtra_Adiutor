@@ -59,7 +59,6 @@
   <string name="profile">プロファイル</string>
   <string name="initd">Init.d</string>
   <string name="settings">設定</string>
-  <string name="faq">FAQ</string>
   <string name="about_us">このアプリについて</string>
   <string name="unused_cpu_states">未使用のCPUテーブル</string>
   <string name="uptime">使用時間</string>
@@ -561,16 +560,6 @@
   <string name="password_too_long">パスワードが長すぎます。</string>
   <string name="set_password_first">まずパスワードを設定してください。</string>
   <string name="show_sections">セクションの表示</string>
-  <string name="misspelled">\"Auditor\"って綴り間違いじゃないのぉ?</string>
-  <string name="misspelled_summary">Adiutorはラテン語で「helper」という意味です。</string>
-  <string name="cpu_freq_not_sticking">CPU周波数を設定したのに固定されないのはなぜ?</string>
-  <string name="cpu_freq_not_sticking_summary">これは多くの理由があります。大多数のカーネルはCPU 周波数を制御する独自のHotplugシステムを持っており、またCyanogenModは独自にCPU ブースト機能を実装しています。その場合周波数の固定に固執せず、カーネルに任せるのがおすすめです。</string>
-  <string name="feature_not_appearing">なぜxとy機能が表示されないの?</string>
-  <string name="feature_not_appearing_summary">カーネルによって実装されている機能に違いがあります。</string>
-  <string name="feature_function">x機能って何なの?</string>
-  <string name="feature_function_summary">何をするものなのか知らないなら、触らないでください。文鎮化を避けるためにも、設定を変える前によく検索してください。</string>
-  <string name="add_new_features">xとy機能を追加してもらえますか?</string>
-  <string name="add_new_features_summary">場合によります。様々な機能を追加しようとは考えていますが、あらゆる機器に対応させるのは難しいのです。私はSamsung Galaxy S4 (I9500)とHTC Desire 816しか持っていないので、リクエストした機能がすぐ追加されなくても文句を言わないでください。</string>
   <string name="license">ライセンス</string>
   <string name="app_license">Kernel AdiutorはApache License, Version 2.0でライセンスされ、以下のライブラリを使用しています:</string>
   <string name="open_source">オープンソース</string>

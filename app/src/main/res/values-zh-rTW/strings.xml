@@ -57,7 +57,6 @@
   <string name="profile">設定檔</string>
   <string name="initd">啟動腳本</string>
   <string name="settings">設定</string>
-  <string name="faq">FAQ</string>
   <string name="about_us">關於我們</string>
   <string name="unused_cpu_states">未使用的 CPU 頻率</string>
   <string name="uptime">核心啟用時間</string>
@@ -300,13 +299,6 @@
   <string name="last_kmsg_summary">將 /proc/last_kmsg 複製到 /sdcard/last_kmsg.txt</string>
   <string name="driver_message">驅動程式訊息</string>
   <string name="driver_message_summary">將驅動程式訊息 (dmesg） 複製到 /sdcard/dmesg.txt</string>
-  <string name="misspelled_summary">Adiutor 是拉丁語意思是幫手</string>
-  <string name="cpu_freq_not_sticking">我設定的 CPU 頻率為什麼不會持續保持著？</string>
-  <string name="feature_not_appearing">為什麼讓 x 和 y 露面？</string>
-  <string name="feature_not_appearing_summary">此功能依賴內核。</string>
-  <string name="feature_function">什麼是功能 x？</string>
-  <string name="feature_function_summary">如果您不知道此控制項的作用，請不要碰它。請玩你昂貴的硬體之前，做一個適當的研究。</string>
-  <string name="add_new_features">您可以添加功能 x 和 y 嗎？</string>
   <string name="license">授權協議</string>
   <string name="app_license">Kernel Adiutor依照 Apache 授權進行合約許可，2.0 版本，並使用以下庫</string>
   <string name="open_source">開放原始碼</string>
