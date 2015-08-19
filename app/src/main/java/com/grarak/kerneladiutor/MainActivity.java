@@ -220,7 +220,7 @@ public class MainActivity extends BaseActivity implements Constants {
      */
     private void setList() {
         ITEMS.clear();
-        ITEMS.add(new DAdapter.MainHeader());
+        ITEMS.add(new DAdapter.Header(" "));
         ITEMS.add(new DAdapter.Header(getString(R.string.information)));
         ITEMS.add(new DAdapter.Item(getString(R.string.kernel_information), new KernelInformationFragment()));
         ITEMS.add(new DAdapter.Item(getString(R.string.frequency_table), new FrequencyTableFragment()));
@@ -312,10 +312,13 @@ public class MainActivity extends BaseActivity implements Constants {
         // Sort out headers without any sections
         for (int i = 0; i < tmpViews.size(); i++)
             if ((tmpViews.get(i).getFragment() == null && i < tmpViews.size() && tmpViews.get(i + 1).getFragment() != null)
-                    || tmpViews.get(i).getFragment() != null
-                    || tmpViews.get(i) instanceof DAdapter.MainHeader)
+                    || tmpViews.get(i).getFragment() != null) {
                 VISIBLE_ITEMS.add(tmpViews.get(i));
-
+            } else {
+                if ( i == 0 )
+                    VISIBLE_ITEMS.add(tmpViews.get(i));
+            }
+                
         mAdapter = new DAdapter.Adapter(VISIBLE_ITEMS);
         mDrawerList.setAdapter(mAdapter);
         mAdapter.setItemOnly(true);
